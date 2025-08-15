@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
 I'm Audrey - a passionate student teen coder based in Auckland, New Zealand. 
+* ⛏️ Currently, I'm working on various projects to participate in [Hack Club's Athena Award](https://athena.hackclub.com/) Check out my repositories for more info!
+* 📋 I'm looking to enter the data science and machine learning fields, particularly in finance and economics.
+* ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm learning Cantonese and Japanese as a side hobby.
+* ♀️ Pronouns: she/her
+* 📞 Contact me: audrey.shi108@gmail.com or AudreyS108 on Slack!
 
 <!--
 **AudreyS108/AudreyS108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
