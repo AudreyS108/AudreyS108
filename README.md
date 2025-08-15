@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Audrey - a passionate student teen coder based in Auckland, New Zealand. 
 
 <!--
 **AudreyS108/AudreyS108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
