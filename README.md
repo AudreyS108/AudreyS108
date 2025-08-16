@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I'm Audrey - a passionate student and teen coder based in Auckland, New Zealand. 
-* ⛏️ Currently, I'm working on various projects to submit for [Hack Club's Athena Award](https://athena.hackclub.com/) Check out my repositories for more info!
-* 🏫 I am learning Python, HTML, CSS, JS (a bit), and am wanting to learn SQL soon. 
+* ⛏️ Currently, I'm working on various projects to submit for [Hack Club's Athena Award](https://athena.hackclub.com/). Check out my repositories for more info!
+* 🏫 I am learning Python, HTML, CSS, JS (a bit), and am looking to learn SQL soon. 
 * 📋 I'm looking to enter the data science and machine learning fields, particularly in finance and economics.
 * ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm learning Cantonese and Japanese as a hobby.
 * ♀️ Pronouns: she/her
