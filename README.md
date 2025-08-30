@@ -4,8 +4,8 @@ I'm Audrey - a passionate student and teen coder based in Auckland, New Zealand.
 * ⚒️ I'm working on [Pong But Epilepsy](https://github.com/AudreyS108/pong-but-epilepsy), a Python-based game, full of chaos. Check it out!
 * 🏫 I am learning Python, HTML, CSS, JS (a bit), and am looking to learn SQL soon. 
 * 📋 I'm looking to enter the data science and machine learning fields.
-* 🩷 I also love creating games!
-* ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm learning Cantonese and Japanese as a hobby.
+* 🩷 I also love creating games as a hobby!
+* ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm also learning Cantonese and Japanese.
 * ♀️ Pronouns: she/her
 * 📞 Contact me: audrey.shi108@gmail.com or AudreyS108 on Slack!
 
