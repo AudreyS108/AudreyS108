@@ -1,10 +1,10 @@
 ## Hi there! 👋
 ***I'm Audrey - a passionate student and teen coder based in Auckland, New Zealand.***
-* ⛏️ Currently, I'm working on my game for [Hack Club's Daydream](http://daydream.hackclub.com/), a world-wide game jam for teen coders! Take a look at my repositories for more info.
-* ✔️ My most recent project completed would be [Pong But Epilepsy](https://github.com/AudreyS108/pong-but-epilepsy), a Python-based game, full of chaos. Check it out!
-* 🏫 I am learning learning SQL, as well as GDScript (the script used for the Godot game engine)
+* ⛏️ Currently, I'm working on [Data Analysis Projects][(https://github.com/AudreyS108/Data-Analysis-Projects)]. Take a look at my repositories for more info.
+* ✔️ My most recent project completed would be [Uber NCR Data Analysis][(https://www.kaggle.com/code/audreyshi/uber-ncr-rides-analysis))], a project aiming to analyse various trends and patterns in uber rides in India's NCR region. I would greatly appreciate any feedback on this project.
+* 🏫 I am learning learning SQL and C++
 * 📋 I'm looking to enter the data science and machine learning fields, or the game development field.
-* 🩷 I love creating and playing games as a hobby! Oh yeah I also like watching anime because why not.
+* 🩷 I love creating and playing games as a hobby! 
 * ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm also learning Cantonese and Japanese.
 * ♀️ Pronouns: she/her
 * 📞 Contact me: audrey.shi108@gmail.com or AudreyS108 on Slack!
